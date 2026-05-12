@@ -4,7 +4,9 @@
     "dictionaryDefinitions": [],
     "dictionaries": [],
     "words": [
-        "myresume"
+        "myresume",
+        "newentry",
+        "randomprompt"
     ],
     "ignoreWords": [],
     "import": []
